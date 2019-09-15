@@ -1,6 +1,6 @@
 # Docker Hyderabad Meetup Community Page
 
-Welcome to the Docker Hyderabad Meetup Community repo! This repo aims to centralize content (Meetup presentations, slides, recorded videos, etc) curated by the community members for the Docker Bangalore Meetup Community. The main objective is to help members of the Docker Bangalore Meetup community who share similar interests to learn from & collaborate with each other during events. 
+Welcome to the Docker Hyderabad Meetup Community repo! This repo aims to centralize content (Meetup presentations, slides, recorded videos, etc) curated by the community members for the Docker Meetup Community. The main objective is to help members of the Docker  Meetup community who share similar interests to learn from & collaborate with each other during events. 
 
 
  ![My Image](https://github.com/collabnix/dockerhyderabad/blob/master/images/dockerdocker.png)

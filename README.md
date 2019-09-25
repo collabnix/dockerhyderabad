@@ -11,8 +11,7 @@ Welcome to the Docker Hyderabad Meetup Community repo! This repo aims to central
 
 
 
-[Docker Hyderabad Meetup #19: Docker, Kubernetes, IoT + Docker101 WorkShop - MobileIron]
-(https://github.com/collabnix/dockerhyderabad/blob/master/slides/README.md)
+[Docker Hyderabad Meetup #19: Docker, Kubernetes, IoT + Docker101 WorkShop - MobileIron](https://github.com/collabnix/dockerhyderabad/blob/master/slides/README.md)
 
 
 # Docker Birthday Celebration - Blogs
